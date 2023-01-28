@@ -1,7 +1,7 @@
 # Python-Live-Project
 
 ## Introduction
-For two weeks I took part in a project through the Tech Academy to simulate a real devolper enviroment.  I, and a few other students, work on the same project adding our own apps and pulling and pushing our own code.  The experience was eye opening, I learned alot about Python, the Django Framework, APIs, Beautiful Soup, and proper version control.  Below you will find snippets of my code and an in depth explaination of the process.
+For two weeks I took part in a project through the Tech Academy to simulate a real devoloper enviroment.  I, and a few other students, work on the same project adding our own apps and pulling and pushing our own code.  The experience was eye opening, I learned alot about Python, the Django Framework, APIs, Beautiful Soup, and proper version control.  Below you will find snippets of my code and an in depth explaination of the process.
 
 
 ## CRUD Functionality
